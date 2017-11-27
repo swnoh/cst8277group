@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <!--
+    !!!
+    Don't know what's going on here:
+    unless this is a TextView the background color
+    for status doesn't get drawn.
+    Something to do with the ListView background?
+    -->
+
+    <!-- this is the view for each row, doesn't need much -->
+
+    <TextView
+        android:id="@+id/row_sprites_status"
+        android:layout_width="2dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:textIsSelectable="false" />
+
+    <TextView
+        android:id="@+id/row_sprites_dx"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/row_sprites_status"
+        android:paddingLeft="4dp"
+        android:textIsSelectable="false"
+        android:textSize="10pt"
+        android:textStyle="bold" />
+
+</RelativeLayout>

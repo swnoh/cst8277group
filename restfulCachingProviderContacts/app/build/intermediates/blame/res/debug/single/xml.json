@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
+        "source": "C:\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\build\\intermediates\\res\\merged\\debug\\xml\\prefs.xml",
+        "source": "C:\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\src\\main\\res\\xml\\prefs.xml"
+    }
+]

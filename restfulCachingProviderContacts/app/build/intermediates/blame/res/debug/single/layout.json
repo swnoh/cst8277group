@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sprites.xml",
+        "source": "C:\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\src\\main\\res\\layout\\activity_sprites.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sprite_row.xml",
+        "source": "C:\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\src\\main\\res\\layout\\sprite_row.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sprite_details.xml",
+        "source": "C:\\AndroidStudioProjects\\restfulCachingProviderContacts\\app\\src\\main\\res\\layout\\activity_sprite_details.xml"
+    }
+]
